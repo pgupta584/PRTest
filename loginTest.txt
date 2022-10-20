@@ -1,2 +1,3 @@
 Login to the App !
-Completed ! Proceed next >>
+Completed ! Proceed next >
+Show Home Page !
